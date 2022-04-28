@@ -16,7 +16,7 @@ Gem::Specification.new do |spec|
     DESC
     spec.license        = "MIT"
     spec.homepage = "https://danmurphy1217.github.io/notion-ruby/"
-    spec.metadata['allowed_push_host'] = 'https://rubygems.org'
+    spec.metadata['allowed_push_host'] = 'https://rubygems.pkg.github.com/ottimo'
 
     spec.files = Dir[
         "lib/**/*.rb",
